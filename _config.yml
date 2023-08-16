@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "Mohamed Fathi Abdallah"
-author: "Mohamed Fathi Abdallah"
+title: ""
+author: ""
 description: "Mohamed Fathi Abdallah ©2023"
 permalink: /:title/
 lang: "en"
@@ -17,7 +17,7 @@ url: "http://www.mfathiabdallah.com" # the base hostname & protocol for your sit
 show_social: true 
 show_excerpts: false      # show article excerpts on the home page
 show_frame: false          # adds a gray frame to the site
-show_sidebar: false       # show a sidebar instead of the usual header
+show_sidebar: true       # show a sidebar instead of the usual header
 minimal: true            # use a dark header
 
 # Menu
@@ -30,13 +30,13 @@ navigation:          # accepts {file, title, url, icon, sidebaricon}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:mohamed.fathi@ugent.be"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/MoFathiAbdallah"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/mohamed-fathi-abdallah-66126a38/"}
-  - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Mohamed-Abdallah-13"}
-  - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=05FfukgAAAAJ&hl=en"}
-  - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-3903-6452"}
-  - {title: Ghent University, icon: landmark, url: "https://www.ugent.be/"}
+  - {title: Mail, icon: envelope, url: "mailto:"}
+  - {title: Twitter, icon: twitter, url: ""}
+  - {title: Linkedin, icon: linkedin, url: ""}
+  - {title: Researchgate, icon: researchgate, url: ""}
+  - {title: GoogleScholar, icon: user-graduate, url: ""}
+  - {title: Orcid, icon: orcid, url: ""}
+  - {title: Ghent University, icon: landmark, url: ""}
 
  #- {title: Github, icon: github, url: "https://github.com/mfathiabdallah"}
 
