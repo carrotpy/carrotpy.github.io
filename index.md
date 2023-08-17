@@ -7,7 +7,7 @@ sitemap:
 Theoretical Physicist, Machine Learning Researcher, Freelance Tutor 
 <br /> <br /> 
 <!-- Profile picture -->
-<img class="ProfilePic" img width=200 img align="right" alt="Mohamed Fathi Abdallah" style="float: right; margin-left: 25px; margin-up: 25px;" src="mohamed_fathi_abdallah_2023.JPG">
+<img class="ProfilePic" img width=200 img align="right" alt="TAMIL ARASAN" style="float: right; margin-left: 25px; margin-up: 25px;" src="images/profile.jpg">
 
 <!-- <u>Short Bio (last update: March 2023)</u> -->
 
