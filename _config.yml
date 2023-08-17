@@ -2,22 +2,22 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ""
-author: ""
-description: "Mohamed Fathi Abdallah ©2023"
+title: "TAMIL ARASAN's Blog"
+author: "TAMIL ARASAN "
+description: "TAMIL ARASAN ©2023"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 icon: # the emoji used as the favicon
 mathjax: true
-url: "http://www.mfathiabdallah.com" # the base hostname & protocol for your site
+url: "https://tamil-phy.github.io/" # the base hostname & protocol for your site
 
 # Layout
 show_social: true 
 show_excerpts: false      # show article excerpts on the home page
 show_frame: false          # adds a gray frame to the site
-show_sidebar: true       # show a sidebar instead of the usual header
+show_sidebar: false       # show a sidebar instead of the usual header
 minimal: true            # use a dark header
 
 # Menu
@@ -25,20 +25,19 @@ minimal: true            # use a dark header
 navigation:          # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV & Publications", file: "publications.md"}
   - {title: "More About Me", file: "more_about_me.md"}
-  - {title: "News & Views", file: "blogs.md"}
+  - {title: "Blogs", file: "blogs.md"}
   - {title: "Contact", file: "contact.md"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:"}
-  - {title: Twitter, icon: twitter, url: ""}
-  - {title: Linkedin, icon: linkedin, url: ""}
+  - {title: Mail, icon: envelope, url: "mailto:tamilarasanbakthavatchalam@gmail.com"}
+  # - {title: Twitter, icon: twitter, url: ""}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/tamil-arasan-644a3763/"}
   - {title: Researchgate, icon: researchgate, url: ""}
-  - {title: GoogleScholar, icon: user-graduate, url: ""}
-  - {title: Orcid, icon: orcid, url: ""}
-  - {title: Ghent University, icon: landmark, url: ""}
-
- #- {title: Github, icon: github, url: "https://github.com/mfathiabdallah"}
+  - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?hl=en&user=Szi3WqkAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F5FF6TXWzNo5owa4MN9d1TvIAkPuBttSEj3rfi5MrnyFQH2-qtyV4Bs6REHAQxTxqu5V267WmpeqjxW-SSeBQmL94C9Ccd9QOEbRFVkOeB3eZbUpRw"}
+  # - {title: Orcid, icon: orcid, url: ""}
+  # - {title: Ghent University, icon: landmark, url: ""}
+  - {title: Github, icon: github, url: "https://github.com/tamil-phy"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

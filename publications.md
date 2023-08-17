@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<div style="display: flex; flex-direction: row; align-items: center;">
+<!-- <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="flex: 1;">
     <p>&#10148; You can find my CV here <a href="/CV_MFA_2023.pdf" target="_blank" rel="noopener">(click to download)</a>.</p>
     <p>&#10148; Visit my <a href="https://www.ugent.be/bw/foodscience/en/research/faculty/mohamed-fathi-abdallah-abdelmohsen.htm" target="_blank" rel="noopener">page</a> at Ghent University</p>
@@ -14,7 +14,7 @@ title: ""
   <div style="flex: 1; text-align: center;">
     <iframe src="/CV_MFA_2023.pdf" style="width:100%;height:300px;"></iframe>
   </div>
-</div>
+</div> -->
 
 ---
 
@@ -23,110 +23,37 @@ title: ""
 
 <h1 align="center">&#10148; Research Articles </h1>
 
-18) F Sun, P Wu, **MF Abdallah**, H Tan, Y Li, S Yang (2023).
-<br>One sample multi-point calibration curve as a novel approach for quantitative LC-MS analysis: the quantitation of six aflatoxins in milk and oat-based milk as an example. Food Chemistry, 135593. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0308814623002091){:target="_blank" rel="noopener"}.
+18) .
+<br>Data-driven multi-valley dark solitons of multi-component Manakov Model using Physics-Informed Neural Networks, Chaos, Solitons & Fractals. [[Link]](https://www.sciencedirect.com/science/article/pii/S0960077923004101){:target="_blank" rel="noopener"}.
 
-17) X Chen, **MF Abdallah**, C Grootaert, F Van Nieuwerburgh, A Rajkovic (2023). 
-<br>New insights into the combined toxicity of aflatoxin B1 and fumonisin B1 in HepG2 cells using Seahorse respirometry analysis and RNA transcriptome sequencing. 
-Environment International, 107945. <span style="color:green">(Open Access)</span> [[Link]](https://www.sciencedirect.com/science/article/pii/S0160412023002180){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Chent et al_2023.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+17)
+<br>Active Learning for Probabilistic Machine Learning based modeling of Dynamical, NODYCON-2023 Systems <span style="color:green">(Open Access)</span> [[Link]](https://nodycon.org/2023/papers/453/abstract_submissions/785/view_abstract){:target="_blank" rel="noopener"} [[Download PDF]](https://github.com/tamil-phy/Active_Learning_GP){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
-16) Y Tian, **MF Abdallah**, M De Boevre, K Audenaert, C Wang, S De Saege, A Wu (2023). 
-<br>Deciphering Alternaria metabolic responses in microbial confrontation via an integrated mass spectrometric targeted and non-targeted strategy. Food Chemistry, 134694. [[Link]](https://www.sciencedirect.com/science/article/pii/S0308814622026565){:target="_blank" rel="noopener"}.
+16) 
+<br>Primer on solving Differential Equations using Machine Learning techniques, Romanian Reports in Physics [2022] [[Link]](http://www.rrp.infim.ro/IP/AP616.pdf){:target="_blank" rel="noopener"}.
 
-15) H Zhang, Y Li, **MF Abdallah**, H Tan, J Li, S Liu, R Zhang, F Sun, Y Li, S Yang (2023). 
-<br>Novel one-point calibration strategy for high-throughput quantitation of microcystins in freshwater using LC-MS/MS. Science of The Total Environment, 159345. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0048969722064440){:target="_blank" rel="noopener"}.
+15) 
+<br>Bayesian Optimization of Bose‑Einstein Condensates, Scientific Reports, Springer Nature[2021][[Link]](https://www.nature.com/articles/s41598-021-84336-0.pdf?origin=ppub){:target="_blank" rel="noopener"}.
 
-14) H Zhang, **MF Abdallah**, J Zhang, Y Yu, Q Zhao, C Tang, Y Qin, J Zhang (2022).
-<br>Comprehensive quantitation of multi-signature peptides originating from casein for the discrimination of milk from eight different animal species using LC-HRMS with stable isotope labeled peptides. Food Chemistry, 390, 133126. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0308814622010883){:target="_blank" rel="noopener"}.
+14) 
+<br>சொல்லோடை: கற்கும்-கருவிகளுக்கு ஒரு சொற்றொடர் படையல் [2022] [[Link]](https://uttamam.org/papers/21_05.pdf){:target="_blank" rel="noopener"}.
 
-13) H Tan, F Sun, **MF Abdallah**, J Li, J Zhou, Y Li, S Yang (2022).
-<br>Background ions into exclusion list: A new strategy to enhance the efficiency of DDA data collection for high-throughput screening of chemical contaminations in food. Food Chemistry, 385, 132669. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0308814622006318){:target="_blank" rel="noopener"}.
+13) 
+<br> Structural, linear and non linear optical, electrical, piezoelectric and thermal investigation on new semi-organic single crystal for microelectronics and high power laser applications: A brucinium di-hydrogen borate hydrate, Optical Materials, ELSEVIER[2020] [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0925346720306042){:target="_blank" rel="noopener"}.
 
-12) X Chen, **MF Abdallah**, C Grootaert, A Rajkovic (2022).
-<br>Bioenergetic status of the intestinal and hepatic cells after short term exposure to fumonisin B1 and aflatoxin B1. International Journal of Molecular Sciences, 23 (13), 6945. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/1422-0067/23/13/6945){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/ijms-23-06945-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+12) 
+<br>Dynamics of solitons in the fourth-order nonlocal nonlinear Schrödinger equation, Nonlinear Dynamics, Springer[2020] <span style="color:green">(Open Access)</span> [[Link]](https://link.springer.com/article/10.1007/s11071-019-05354-2){:target="_blank" rel="noopener"}
 
-11) F Sun, H Tan, **MF Abdallah**, J Li, J Zhou, Y Li, S Yang (2022).
-<br>A novel calibration strategy based on isotopic distribution for high-throughput quantitative analysis of pesticides and veterinary drugs using LC-HRMS. Journal of Hazardous Materials, 430, 128413. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0304389422002011){:target="_blank" rel="noopener"}.
+11) 
+<br>Structural, optical and piezoelectric investigation on brucinium bromide hydrate non linear optical single crystal for optical parametric oscillators, high-power laser, piezo-sensors and transducers applications, Journal of Molecular Structure, ELSEVIER[2019][[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0022286018313991){:target="_blank" rel="noopener"}.
 
-10) I Vanhoutte, C De Tender, K Demeyere, **MF Abdallah**, S Ommeslag, P Vermeir, S De Saeger, J Debode, E Meyer, S Croubels, K Audenaert, L De Gelder (2021). <br>Bacterial Enrichment Cultures Biotransform the Mycotoxin Deoxynivalenol into a Novel Metabolite Toxic to Plant and Porcine Cells. Toxins, 13 (8), 552. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/8/552){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00552.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
+10) 
+ <br>Analytical signatures of ultracold atoms, RTMS[2018]<span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/8/552){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00552.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
-9) L De Colli, K De Ruyck, **MF Abdallah**, J Finnan, E Mullins, S Kildea, J Spink, C Elliott, M Danaher (2021).
-<br>Natural co-occurrence of multiple mycotoxins in unprocessed oats grown in Ireland with various production systems. Toxins, 13 (3), 188. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/3/188){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00188-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
-8) **MF Abdallah***, K Audenaert, SD Saeger, J Houbraken (2020).
-<br>Revisiting an Aspergillus flavus Strain Isolated from an Egyptian Sugarcane Field in 1930. Microorganisms, 8 (11), 1633. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2076-2607/8/11/1633){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/microorganisms-08-01633-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
-7) J Tan†, M Ameye†, S Landschoot, N De Zutter, S De Saeger, M De Boevre, **MF Abdallah**, T Van der Lee, C Waalwijk, K Audenaert (2020).
-<br>At the scene of the crime: New insights into the role of weakly pathogenic members of the fusarium head blight disease complex. Molecular Plant Pathology, 21 (12), 1559-1572. <span style="color:green">(Open Access)</span> [[Link]](https://bsppjournals.onlinelibrary.wiley.com/doi/full/10.1111/mpp.12996){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Molecular Plant Pathology_2020.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
-6) **MF Abdallah***, K Audenaert, L Lust, S Landschoot, B Bekaert, G Haesaert, M De Boevre, S De Saeger (2020).
-<br>Risk characterization and quantification of mycotoxins and their producing fungi in sugarcane juice: A neglected problem in a widely-consumed traditional beverage. Food Control, 108, 106811. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0956713519304001){:target="_blank" rel="noopener"}.
-
-5) **MF Abdallah***, G Girgin, T Baydar (2019).
-<br>Mycotoxin detection in maize, commercial feed, and raw dairy milk samples from Assiut City, Egypt. Veterinary Sciences, 6 (2), 57. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2306-7381/6/2/57){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/vetsci-06-00057-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
-4) **MF Abdallah***, M De Boevre, S Landschoot, S De Saeger, G Haesaert, K Audenaert (2018). 
-<br>Fungal Endophytes Control Fusarium graminearum and Reduce Trichothecenes and Zearalenone in Maize. Toxins, 10 (12), 493. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/10/12/493){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-10-00493.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
-3) **MF Abdallah***, R Krska, M Sulyok (2018).
-<br>Occurrence of Ochratoxins, Fumonisin B2, Aflatoxins (B1 and B2), and Other Secondary Fungal Metabolites in Dried Date Palm Fruits from Egypt: A Mini‐Survey. Journal of Food Science, 83 (2), 559-564. [[Link]](https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/1750-3841.14046){:target="_blank" rel="noopener"}.
-
-2) **MF Abdallah**, G Girgin, T Baydar, R Krska, M Sulyok (2017).
-<br>Occurrence of multiple mycotoxins and other fungal metabolites in animal feed and maize samples from Egypt using LC‐MS/MS. Journal of the Science of Food and Agriculture, 97 (13), 4419-4428. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.8293){:target="_blank" rel="noopener"}.
-
-1) **MF Abdallah**, R Krska, M Sulyok (2016).
-<br>Mycotoxin contamination in sugarcane grass and juice: first report on detection of multiple mycotoxins and exposure assessment for aflatoxins B1 and G1 in humans. Toxins, 8 (11), 343. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/8/11/343){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-08-00343.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 ---
 <h1 align="center">&#10148; Reviews</h1>
 
-3) R Tavelli, M Callens, C Grootaert, **MF Abdallah**, A Rajkovic (2022).
-<br>Foodborne pathogens in the plastisphere: Can microplastics in the food chain threaten microbial food safety?. Trends in Food Science & Technology, 129, 1-10. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0924224422003715){:target="_blank" rel="noopener"}.
-
-
-2) **MF Abdallah***, WHR Van Hassel, M Andjelkovic, A Wilmotte, A Rajkovic (2021).
-<br>Cyanotoxins and Food Contamination in Developing Countries: Review of Their Types, Toxicity, Analysis, Occurrence and Mitigation Strategies. Toxins, 13 (11), 786. <span style="color:green">(Open Access)</span> [[Link]](https://www.mdpi.com/2072-6651/13/11/786){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/toxins-13-00786-v2.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
-
-1) **MF Abdallah**, G Girgin, T Baydar (2015).
-<br>Occurrence, prevention and limitation of mycotoxins in feeds. Animal Nutrition and Feed Technology, 15 (3), 471-490. <span style="color:green">(Open Access)</span> [[Link]](https://www.researchgate.net/publication/280041287_Occurrence_Prevention_and_Limitation_of_Mycotoxins_in_Feeds){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Abdallah_et_al_2015.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
 
 ---
 
-<h1 align="center">&#10148; Book Chapters</h1>
-
-1) **MF Abdallah***, M Ameye, S De Saeger, K Audenaert, G Haesaert (2018).
-<br>Biological control of mycotoxigenic fungi and their toxins: An update for the pre-harvest approach. **Book Name** Fungi and Mycotoxins-Their Occurrence, Impact on Health and the Economy as well as Pre-and Postharvest Management Strategies. IntechOpen, <span style="color:green">(Open Access)</span> [[Link]](https://www.intechopen.com/chapters/61887){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Abdallah_et_al_2018_bookchapter.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
----
-
-<h1 align="center">&#10148; Editorials</h1>
-
-3) **MF Abdallah***, W Xu and A Abdeen (2022).
-<br>Editorial: Environmental contaminants and animal health: Analysis, toxicity, and mitigation. Front. Vet. Sci. 9:1102836. <span style="color:green">(Open Access)</span> [[Link]](https://www.frontiersin.org/articles/10.3389/fvets.2022.1102836/full){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/fvets-09-1102836.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
-2) M Gado, D Abdelsadek, F Zahran, NN El-Salhey, O Mehrez, S Abdel-Hay, S Mohamed, **MF Abdallah*** (2022).
-<br>Mycotoxin occurrence in Egyptian foods: Highlights on the findings of the past decade. Egypt Scholars Journal, 1 (1), 1-3. <span style="color:green">(Open Access)</span> [[Link]](https://journal.egyptscholars.org/index.php/Esj/article/view/6){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Editorial_2022(1).pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
-1) **MF Abdallah***, M De Boevre, K Audenaert, G Haesaert, S De Saeger (2018).
-<br>Highlight report: Mycotoxins as food contaminants in Africa—challenges and perspectives. Archives of Toxicology, 92 (6), 2151-2152. <span style="color:green">(Open Access)</span> [[Link]](https://link.springer.com/article/10.1007/s00204-018-2203-2){:target="_blank" rel="noopener"} [[Download PDF]](https://mfathiabdallah.github.io/pdfs/Abdallah_et_al_2018_highlight_report.pdf){: style="color:#cc0001;" .btn .btn-blue target="_blank"}.
-
----
-
-<h1 align="center">&#10148; Correspondence</h1>
-
-1) **MF Abdallah**, A Briend, GB Gonzales (2021).
-<br>Aflatoxins and kwashiorkor: a commentary on the association-causation conundrum. Toxicon, 190 (January), 20-21. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S004101012030948X?via%3Dihub){:target="_blank" rel="noopener"}. 
-
----
-
-<h1 align="center">&#10148; Editor of Book (Chapters) or Journal Issue</h1>
-
-#### Journal Issue
-1) Dr. Elisabeth Varga, **Dr. MF Abdallah**, Dr. Shupeng Yang .
-<br>Current Research on Mycotoxins in Food and Feed: From Detection and Unravelling of Toxicity to Control. 
-<br>Toxins, 2023. [[Link]](https://www.mdpi.com/journal/toxins/special_issues/18K7C930F7){:target="_blank" rel="noopener"}. Submission deadline June 2023.
-
-2) Dr. A Abdeen, **Dr. MF Abdallah**, Dr. W Xu.
-<br>Environmental contaminants and animal health : analysis, toxicity, and mitigation. 
-<br>Frontiers in Veterinary Science, 2022. [[Link]](https://www.frontiersin.org/research-topics/28308/environmental-contaminants-and-animal-health-analysis-toxicity-and-mitigation#more-text-container-1){:target="_blank" rel="noopener"}. Submission deadline August 2022.
